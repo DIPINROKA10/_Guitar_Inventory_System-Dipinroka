@@ -3,10 +3,7 @@ public class Inventory {
 
     public static void main(String[] args) {
         String[] defaultNames = {
-                "Lucy", "Red Special", "Trigger",
-                "Blackie", "Vanessa", "Beau",
-                "BB", "Molly", "Gretsch White Falcon",
-                "Maggie"
+                "Lucy", "Red Special", "Trigger","Blackie", "Vanessa", "Beau","BB", "Molly", "Gretsch White Falcon","Maggie"
         };
 
         // Insert guitars
